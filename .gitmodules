@@ -8,3 +8,8 @@
 	url = https://github.com/andreamrau/ebdbnet
 	shallow = true
 	registered = true
+[submodule "padma"]
+	path = padma
+	url = https://github.com/andreamrau/padma
+	shallow = true
+	registered = true
