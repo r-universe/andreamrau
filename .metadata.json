@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "package": "ebdbNet",
+    "oncran": true
+  },
+  {
+    "package": "padma"
+  }
+]
