@@ -8,6 +8,11 @@
 	url = https://github.com/andreamrau/ebdbnet
 	shallow = true
 	registered = true
+[submodule "HTSCluster"]
+	path = HTSCluster
+	url = https://github.com/andreamrau/htscluster
+	shallow = true
+	registered = true
 [submodule "padma"]
 	path = padma
 	url = https://github.com/andreamrau/padma

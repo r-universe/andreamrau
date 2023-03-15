@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "HTSCluster",
+    "oncran": true
+  },
+  {
     "package": "padma"
   }
 ]
