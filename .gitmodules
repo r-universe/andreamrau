@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ebdbNet"]
-	path = ebdbNet
-	url = https://github.com/andreamrau/ebdbnet
 [submodule "HTSCluster"]
 	path = HTSCluster
 	url = https://github.com/andreamrau/htscluster
+[submodule "ebdbNet"]
+	path = ebdbNet
+	url = https://github.com/andreamrau/ebdbnet
 [submodule "padma"]
 	path = padma
 	url = https://github.com/andreamrau/padma
