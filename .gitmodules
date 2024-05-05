@@ -8,6 +8,3 @@
 [submodule "ebdbNet"]
 	path = ebdbNet
 	url = https://github.com/andreamrau/ebdbnet
-[submodule "padma"]
-	path = padma
-	url = https://github.com/andreamrau/padma
